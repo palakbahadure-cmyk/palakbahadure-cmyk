@@ -27,14 +27,14 @@ I'm an aspiring engineer and developer with a strong foundation in **problem-sol
 - 🎯 **Competitive Coding** - Building strong DSA fundamentals
 - 💡 **Problem-Solving** - Tackling complex coding challenges
 - 📖 **Open-Source Contributions** - Learning and contributing to community projects
-
+-
 ---
 
 ## 🎯 Goals & Aspirations
 
 - ⭐ **Contribute to Open-Source Projects** - Make meaningful contributions to the developer community
 - 📝 **Publish Technical Articles & Writing** - Share insights on coding, problem-solving, and real-world applications
-- 🛠️ **Build a Strong Project Portfolio** - Showcase practical applications and innovations
+- 🛠️ **Build a Strong Project Portfolio** - Showcase practical applications and innovations of  arduino and IOT
 - 🏅 **Participate in Competitive Coding Contests** - Improve algorithmic thinking and coding skills
 
 ---
@@ -68,6 +68,7 @@ I'm always open to collaborating, discussing ideas, and learning from the commun
 - 🎓 Pursuing B.Tech in Electronics & Telecommunications Engineering
 - 💪 Strengthening DSA and competitive coding skills
 - 📚 Learning new technologies and best practices
+- building arduino projects 
 
 ---
 
