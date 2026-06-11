@@ -27,7 +27,7 @@ I'm an aspiring engineer and developer with a strong foundation in **problem-sol
 - 🎯 **Competitive Coding** - Building strong DSA fundamentals
 - 💡 **Problem-Solving** - Tackling complex coding challenges
 - 📖 **Open-Source Contributions** - Learning and contributing to community projects
--
+-**BUILD arduino projects**- basic knowledge of arduino projects
 ---
 
 ## 🎯 Goals & Aspirations
